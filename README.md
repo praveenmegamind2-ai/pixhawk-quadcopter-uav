@@ -42,7 +42,7 @@ This project involves the design, setup, and testing of a quadcopter UAV using t
 
 ## 🚀 Outcome
 
-![Quadcopter Flight](IMG_3421.jpg)
+![Quadcopter Flight](drone%flyby.jpg)
 
 - Successfully achieved stable quadcopter flight  
 - Enabled GPS-based flight modes (Position Hold, Altitude Hold)  
@@ -53,7 +53,7 @@ This project involves the design, setup, and testing of a quadcopter UAV using t
 
 ## 🎥 Demo Video
 
-[Watch Flight Test](YOUR_VIDEO_LINK_HERE)
+[Watch Flight Test](https://drive.google.com/file/d/1jQAstdexFH_7c7xabXhMIjJDIv-erNnw/edit)
 
 ---
 
@@ -69,7 +69,7 @@ This project involves the design, setup, and testing of a quadcopter UAV using t
 
 ## 🔧 Improvements & Future Work
 - Integration of telemetry module for real-time ground communication  
-- Further PID tuning for optimized flight performance  
+- Further PID tuning for optimized flight performance and see the possibility to fly with autotuning instead of manual tuning 
 - Transition to VTOL system development (next phase project)  
 - Improved hardware reliability and modular design  
 
